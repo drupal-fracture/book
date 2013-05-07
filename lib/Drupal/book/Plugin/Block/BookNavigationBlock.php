@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\book\Plugin\block\block\BookNavigationBlock.
+ * Contains \Drupal\book\Plugin\Block\BookNavigationBlock.
  */
 
-namespace Drupal\book\Plugin\block\block;
+namespace Drupal\book\Plugin\Block;
 
 use Drupal\block\BlockBase;
 use Drupal\Component\Annotation\Plugin;
